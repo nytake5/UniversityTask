@@ -1,0 +1,15 @@
+D:\Uni\University.FormLanguage.Task1\University.FormLanguage.Task1\bin\Debug\net6.0\University.FormLanguage.Task1.exe
+D:\Uni\University.FormLanguage.Task1\University.FormLanguage.Task1\bin\Debug\net6.0\University.FormLanguage.Task1.deps.json
+D:\Uni\University.FormLanguage.Task1\University.FormLanguage.Task1\bin\Debug\net6.0\University.FormLanguage.Task1.runtimeconfig.json
+D:\Uni\University.FormLanguage.Task1\University.FormLanguage.Task1\bin\Debug\net6.0\University.FormLanguage.Task1.dll
+D:\Uni\University.FormLanguage.Task1\University.FormLanguage.Task1\bin\Debug\net6.0\University.FormLanguage.Task1.pdb
+D:\Uni\University.FormLanguage.Task1\University.FormLanguage.Task1\obj\Debug\net6.0\University.FormLanguage.Task1.csproj.AssemblyReference.cache
+D:\Uni\University.FormLanguage.Task1\University.FormLanguage.Task1\obj\Debug\net6.0\University.FormLanguage.Task1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Uni\University.FormLanguage.Task1\University.FormLanguage.Task1\obj\Debug\net6.0\University.FormLanguage.Task1.AssemblyInfoInputs.cache
+D:\Uni\University.FormLanguage.Task1\University.FormLanguage.Task1\obj\Debug\net6.0\University.FormLanguage.Task1.AssemblyInfo.cs
+D:\Uni\University.FormLanguage.Task1\University.FormLanguage.Task1\obj\Debug\net6.0\University.FormLanguage.Task1.csproj.CoreCompileInputs.cache
+D:\Uni\University.FormLanguage.Task1\University.FormLanguage.Task1\obj\Debug\net6.0\University.FormLanguage.Task1.dll
+D:\Uni\University.FormLanguage.Task1\University.FormLanguage.Task1\obj\Debug\net6.0\refint\University.FormLanguage.Task1.dll
+D:\Uni\University.FormLanguage.Task1\University.FormLanguage.Task1\obj\Debug\net6.0\University.FormLanguage.Task1.pdb
+D:\Uni\University.FormLanguage.Task1\University.FormLanguage.Task1\obj\Debug\net6.0\University.FormLanguage.Task1.genruntimeconfig.cache
+D:\Uni\University.FormLanguage.Task1\University.FormLanguage.Task1\obj\Debug\net6.0\ref\University.FormLanguage.Task1.dll
